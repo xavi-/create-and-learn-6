@@ -1,0 +1,40 @@
+// Map tile symbols:
+// "X" -- outside of map
+// " " -- empty cell
+// "#" -- map wall
+// "w" -- water tile
+// "^" -- elevator tile which accelerate the player up
+// "%" -- bouncy tile
+// "=" -- no bounce tile
+// "*" -- changes the player's color
+// "@" -- map goal, ends level if touched
+// "!" -- death tile, kills the player if touched
+// "+" -- key, when player touches a key, the secret passage is revealed
+// "?" -- secret passage, this tile is a wall until the player touches the key
+
+
+#########################
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#                       #
+#             ###       #
+#             ###       #
+#             ###       #
+#             ###       #
+#             ###       #
+#             ###       #
+#             ###       #
+#             ###       #
+#             ###      @#
+#===!!!##################
